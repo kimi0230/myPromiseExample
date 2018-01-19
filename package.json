@@ -1,0 +1,27 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "node js promise example",
+  "main": "myPromises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimi0230/myPromiseExample.git"
+  },
+  "keywords": [
+    "nodejs",
+    "promise"
+  ],
+  "author": "Kimi Tsai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimi0230/myPromiseExample/issues"
+  },
+  "homepage": "https://github.com/kimi0230/myPromiseExample#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "underscore": "^1.8.3"
+  }
+}
